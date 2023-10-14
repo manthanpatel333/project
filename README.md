@@ -11,24 +11,6 @@ By adopting the concept of trending scanning and storing technologies we have im
 
 Moreover we have added some facilities like adding them in text record with email and name of the contact user can added their notes and other data with it.
 	
-
-
-
-
-
-TABLE OF CONTENT
-
-1.     INTRODUCTION	3
-2.     PROJECT MANAGEMENT	7
-3.     SYSTEM REQUIREMENT STUDY	11
-4.     SYSTEM ANALYSIS	12
-5.     IMPLEMENTATION PLANNING	20
-6.     SYSTEM TESTING	22
-7.     SCEEN SHOTS AND USER MANUAL	24
-8.     LIMITATIONS AND FUTURE WORK	35
-9.     CONCLUSION	36
-10.   REFERENCES	37
-
  
 1. INTRODUCTION
 
